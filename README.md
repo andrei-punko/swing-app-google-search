@@ -1,12 +1,12 @@
 # Test task: Swing desktop app to make Google search
 
-![Java CI with Maven](https://github.com/andrei-punko/swing-app-google-search/workflows/Java%20CI%20with%20Maven/badge.svg)
+[![Maven CI](https://github.com/andrei-punko/swing-app-google-search/actions/workflows/maven.yml/badge.svg)](https://github.com/andrei-punko/swing-app-google-search/actions/workflows/maven.yml)
 [![Coverage](.github/badges/jacoco.svg)](https://github.com/andrei-punko/swing-app-google-search/actions/workflows/maven.yml)
-[![Branches](.github/badges/branches.svg)](https://github.com/andrei-punko/swing-app-google-search/actions/workflows/maven.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Prerequisites:
 
-- Maven 3
+- Maven 3 (embedded)
 - JDK 21
 
 ## Task definition
@@ -28,4 +28,4 @@
 
 Hint: to get page from Google you could use
 [this](https://stackoverflow.com/questions/3727662/how-can-you-search-google-programmatically-java-api)
-code from Stackoverflow
+code from StackOverflow
