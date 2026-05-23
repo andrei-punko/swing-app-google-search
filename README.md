@@ -29,3 +29,6 @@
 Hint: to get page from Google you could use
 [this](https://stackoverflow.com/questions/3727662/how-can-you-search-google-programmatically-java-api)
 code from StackOverflow
+
+---
+P.S. Because of sanctions (Google search API blocked for Belarus) code switched from usage of Google search to DuckDuckGo search

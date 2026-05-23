@@ -17,7 +17,7 @@ public class SearchHelperTest {
 
     @Test
     public void search() {
-        var result = searchHelper.search("Andrei", 10);
+        var result = searchHelper.search("Andrei Punko", 10);
 
         assertThat(result.size(), is(10));
     }
